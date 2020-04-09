@@ -375,7 +375,7 @@ reading_progress:
   enable: true
   # Available values: top | bottom
   position: top
-  color: "#37c6c0"
+  color: "#eb4135"
   height: 3px
 
 # Bookmark Support
