@@ -56,5 +56,6 @@
   {%- if theme.pjax %}
     </div>
   {%- endif %}
+  <script src="/live2d-widget/autoload.js"></script>
 </body>
 </html>
